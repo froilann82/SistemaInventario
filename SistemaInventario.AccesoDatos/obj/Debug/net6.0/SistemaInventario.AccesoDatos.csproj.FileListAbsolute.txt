@@ -1,0 +1,17 @@
+D:\Programas c# Personal\SistemaInventario\SistemaInventario.AccesoDatos\bin\Debug\net6.0\SistemaInventario.AccesoDatos.deps.json
+D:\Programas c# Personal\SistemaInventario\SistemaInventario.AccesoDatos\bin\Debug\net6.0\SistemaInventario.AccesoDatos.dll
+D:\Programas c# Personal\SistemaInventario\SistemaInventario.AccesoDatos\bin\Debug\net6.0\ref\SistemaInventario.AccesoDatos.dll
+D:\Programas c# Personal\SistemaInventario\SistemaInventario.AccesoDatos\bin\Debug\net6.0\SistemaInventario.AccesoDatos.pdb
+D:\Programas c# Personal\SistemaInventario\SistemaInventario.AccesoDatos\bin\Debug\net6.0\SistemaInventario.Models.dll
+D:\Programas c# Personal\SistemaInventario\SistemaInventario.AccesoDatos\bin\Debug\net6.0\SistemaInventario.Utilidades.dll
+D:\Programas c# Personal\SistemaInventario\SistemaInventario.AccesoDatos\bin\Debug\net6.0\SistemaInventario.Models.pdb
+D:\Programas c# Personal\SistemaInventario\SistemaInventario.AccesoDatos\bin\Debug\net6.0\SistemaInventario.Utilidades.pdb
+D:\Programas c# Personal\SistemaInventario\SistemaInventario.AccesoDatos\obj\Debug\net6.0\SistemaInventario.AccesoDatos.csproj.AssemblyReference.cache
+D:\Programas c# Personal\SistemaInventario\SistemaInventario.AccesoDatos\obj\Debug\net6.0\SistemaInventario.AccesoDatos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programas c# Personal\SistemaInventario\SistemaInventario.AccesoDatos\obj\Debug\net6.0\SistemaInventario.AccesoDatos.AssemblyInfoInputs.cache
+D:\Programas c# Personal\SistemaInventario\SistemaInventario.AccesoDatos\obj\Debug\net6.0\SistemaInventario.AccesoDatos.AssemblyInfo.cs
+D:\Programas c# Personal\SistemaInventario\SistemaInventario.AccesoDatos\obj\Debug\net6.0\SistemaInventario.AccesoDatos.csproj.CoreCompileInputs.cache
+D:\Programas c# Personal\SistemaInventario\SistemaInventario.AccesoDatos\obj\Debug\net6.0\SistemaInventario.AccesoDatos.csproj.CopyComplete
+D:\Programas c# Personal\SistemaInventario\SistemaInventario.AccesoDatos\obj\Debug\net6.0\SistemaInventario.AccesoDatos.dll
+D:\Programas c# Personal\SistemaInventario\SistemaInventario.AccesoDatos\obj\Debug\net6.0\ref\SistemaInventario.AccesoDatos.dll
+D:\Programas c# Personal\SistemaInventario\SistemaInventario.AccesoDatos\obj\Debug\net6.0\SistemaInventario.AccesoDatos.pdb
