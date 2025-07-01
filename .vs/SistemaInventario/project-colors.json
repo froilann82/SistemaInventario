@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "7d42278a-a0ac-4d63-9c3d-070ee43f336b": {
+      "ProjectGuid": "7d42278a-a0ac-4d63-9c3d-070ee43f336b",
+      "DisplayName": "SistemaInventario",
+      "ColorIndex": 0
+    },
+    "ab9995e1-d0f2-47fd-a8d5-663ae7ff063c": {
+      "ProjectGuid": "ab9995e1-d0f2-47fd-a8d5-663ae7ff063c",
+      "DisplayName": "SistemaInventario.AccesoDatos",
+      "ColorIndex": 1
+    },
+    "e7f1b162-54c4-4356-bcb5-cbd0a8a7964b": {
+      "ProjectGuid": "e7f1b162-54c4-4356-bcb5-cbd0a8a7964b",
+      "DisplayName": "SistemaInventario.Models",
+      "ColorIndex": 2
+    },
+    "ad7ed787-9738-4568-bf2f-f5162f038b5e": {
+      "ProjectGuid": "ad7ed787-9738-4568-bf2f-f5162f038b5e",
+      "DisplayName": "SistemaInventario.Utilidades",
+      "ColorIndex": 3
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Archivos varios",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 4
+}
